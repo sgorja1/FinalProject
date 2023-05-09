@@ -1,0 +1,338 @@
+[{
+  "_id": {
+    "$oid": "64552ef725723c95fc8e594b"
+  },
+  "bookname": "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win",
+  "release": 2013,
+  "authour": "Gene Kim, Kevin Behr, and George Spafford",
+  "desc": "A novel that shows the challenges faced by IT organizations and how they can adopt DevOps practices to improve their performance.",
+  "buyFrom": [
+    "Amazon",
+    "Barnes & Noble",
+    "Book Depository"
+  ]
+},{
+  "_id": {
+    "$oid": "64552ef725723c95fc8e594c"
+  },
+  "bookname": "Cracking the Coding Interview: 189 Programming Questions and Solutions",
+  "release": 2015,
+  "authour": "Gayle Laakmann McDowell",
+  "desc": "A book that provides interview questions and solutions for software engineering positions.",
+  "buyFrom": [
+    "Amazon",
+    "Barnes & Noble",
+    "Book Depository"
+  ]
+},{
+  "_id": {
+    "$oid": "64552ef725723c95fc8e594d"
+  },
+  "bookname": "Code Complete: A Practical Handbook of Software Construction",
+  "release": 1993,
+  "authour": "Steve McConnell",
+  "desc": "A guide to writing high-quality software that is easy to understand, modify, and maintain.",
+  "buyFrom": [
+    "Amazon",
+    "Barnes & Noble",
+    "Book Depository"
+  ]
+},{
+  "_id": {
+    "$oid": "64552ef725723c95fc8e594e"
+  },
+  "bookname": "Design Patterns: Elements of Reusable Object-Oriented Software",
+  "release": 1994,
+  "authour": "Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides",
+  "desc": "A book that provides reusable solutions to common software design problems.",
+  "buyFrom": [
+    "Amazon",
+    "Barnes & Noble",
+    "Book Depository"
+  ]
+},{
+  "_id": {
+    "$oid": "64552ef725723c95fc8e594f"
+  },
+  "bookname": "Head First Design Patterns: A Brain-Friendly Guide",
+  "release": 2004,
+  "authour": "Eric Freeman and Elisabeth Robson",
+  "desc": "A book that provides a friendly and easy-to-understand introduction to software design patterns.",
+  "buyFrom": [
+    "Amazon",
+    "Barnes & Noble",
+    "Book Depository"
+  ]
+},{
+  "_id": {
+    "$oid": "64552ef725723c95fc8e5950"
+  },
+  "bookname": "Refactoring: Improving the Design of Existing Code",
+  "release": 1999,
+  "authour": "Martin Fowler",
+  "desc": "A guide to improving the quality of existing code through refactoring.",
+  "buyFrom": [
+    "Amazon",
+    "Barnes & Noble",
+    "Book Depository"
+  ]
+},{
+  "_id": {
+    "$oid": "64552ef725723c95fc8e5951"
+  },
+  "bookname": "The Art of Computer Programming, Volumes 1-4A Boxed Set",
+  "release": 1968,
+  "authour": "Donald E. Knuth",
+  "desc": "A comprehensive book that covers the fundamentals of computer programming.",
+  "buyFrom": [
+    "Amazon",
+    "Barnes & Noble",
+    "Book Depository"
+  ]
+},{
+  "_id": {
+    "$oid": "64552fe925723c95fc912dff"
+  },
+  "bookname": "The Da Vinci Code",
+  "release": 2003,
+  "authour": "Dan Brown",
+  "desc": "A novel that follows symbologist Robert Langdon and cryptologist Sophie Neveu as they investigate a murder in the Louvre Museum in Paris, and discover a battle between the Priory of Sion and Opus Dei over the possibility of Jesus Christ and Mary Magdalene having had a child together.",
+  "buyFrom": [
+    "Amazon",
+    "Barnes & Noble"
+  ]
+},{
+  "_id": {
+    "$oid": "64552fe925723c95fc912e00"
+  },
+  "bookname": "Gone Girl",
+  "release": 2012,
+  "authour": "Gillian Flynn",
+  "desc": "A novel that tells the story of Nick Dunne, who becomes the prime suspect in the disappearance of his wife Amy, and explores the dynamics of their marriage and the effects of media attention on their lives.",
+  "buyFrom": [
+    "Amazon",
+    "Barnes & Noble",
+    "Books-A-Million"
+  ]
+},{
+  "_id": {
+    "$oid": "64552fe925723c95fc912e01"
+  },
+  "bookname": "The Girl with the Dragon Tattoo",
+  "release": 2005,
+  "authour": "Stieg Larsson",
+  "desc": "A novel that introduces journalist Mikael Blomkvist and hacker Lisbeth Salander, who team up to solve the mystery of a wealthy industrialist's disappearance, and exposes corruption and abuse in Swedish society.",
+  "buyFrom": [
+    "Amazon",
+    "Barnes & Noble",
+    "IndieBound"
+  ]
+},{
+  "_id": {
+    "$oid": "64552fe925723c95fc912e02"
+  },
+  "bookname": "The Silence of the Lambs",
+  "release": 1988,
+  "authour": "Thomas Harris",
+  "desc": "A novel that follows FBI trainee Clarice Starling as she works with psychiatrist and cannibalistic serial killer Hannibal Lecter to catch another serial killer known as Buffalo Bill.",
+  "buyFrom": [
+    "Amazon",
+    "Barnes & Noble",
+    "Books-A-Million"
+  ]
+},{
+  "_id": {
+    "$oid": "64552fe925723c95fc912e03"
+  },
+  "bookname": "The Bourne Identity",
+  "release": 1980,
+  "authour": "Robert Ludlum",
+  "desc": "A novel that introduces Jason Bourne, a man with amnesia who discovers that he is a skilled assassin and is being pursued by people who want him dead.",
+  "buyFrom": [
+    "Amazon",
+    "Barnes & Noble",
+    "Books-A-Million"
+  ]
+},{
+  "_id": {
+    "$oid": "64552fe925723c95fc912e04"
+  },
+  "bookname": "The Andromeda Strain",
+  "release": 1969,
+  "authour": "Michael Crichton",
+  "desc": "A novel that tells the story of a team of scientists investigating a deadly virus that has arrived on Earth from outer space.",
+  "buyFrom": [
+    "Amazon",
+    "Barnes & Noble",
+    "Books-A-Million"
+  ]
+},{
+  "_id": {
+    "$oid": "64552fe925723c95fc912e05"
+  },
+  "bookname": "The Firm",
+  "release": 1991,
+  "authour": "John Grisham",
+  "desc": "A novel that follows law school graduate Mitch McDeere as he is recruited by a prestigious law firm in Memphis, Tennessee, and discovers that it is involved in organized crime.",
+  "buyFrom": [
+    "Amazon",
+    "Barnes & Noble",
+    "IndieBound"
+  ]
+},{
+  "_id": {
+    "$oid": "64560ccceccfc8410bcccf77"
+  },
+  "bookname": "Dune",
+  "release": 1965,
+  "desc": "A science fiction epic set in a distant future where interstellar travel, political intrigue, and ecological crisis intertwine.",
+  "buyFrom": [
+    "Amazon",
+    "Barnes & Noble",
+    "Book Depository"
+  ],
+  "_class": "com.santosh.booklisting.model.Post"
+},{
+  "_id": {
+    "$oid": "64560ce3eccfc8410bcccf78"
+  },
+  "bookname": "Ender's Game",
+  "release": 1985,
+  "desc": "A military science fiction novel following a gifted child strategist who becomes Earth's last hope in an interstellar war.",
+  "buyFrom": [
+    "Amazon",
+    "Barnes & Noble",
+    "Book Depository"
+  ],
+  "_class": "com.santosh.booklisting.model.Post"
+},{
+  "_id": {
+    "$oid": "64560cf1eccfc8410bcccf79"
+  },
+  "bookname": "Foundation",
+  "release": 1951,
+  "desc": "A series of interconnected stories exploring the rise and fall of a galactic empire and the efforts to preserve knowledge and civilization.",
+  "buyFrom": [
+    "Amazon",
+    "Barnes & Noble",
+    "Book Depository"
+  ],
+  "_class": "com.santosh.booklisting.model.Post"
+},{
+  "_id": {
+    "$oid": "64560d01eccfc8410bcccf7a"
+  },
+  "bookname": "Snow Crash",
+  "release": 1992,
+  "desc": "A cyberpunk novel set in a near-future where virtual reality, corporate power, and linguistic viruses collide.",
+  "buyFrom": [
+    "Amazon",
+    "Barnes & Noble",
+    "Book Depository"
+  ],
+  "_class": "com.santosh.booklisting.model.Post"
+},{
+  "_id": {
+    "$oid": "64560d19eccfc8410bcccf7b"
+  },
+  "bookname": "The Left Hand of Darkness",
+  "release": 1969,
+  "desc": "A thought-provoking exploration of gender and sexuality in a world where individuals are neither fully male nor female.",
+  "buyFrom": [
+    "Amazon",
+    "Barnes & Noble",
+    "Book Depository"
+  ],
+  "_class": "com.santosh.booklisting.model.Post"
+},{
+  "_id": {
+    "$oid": "64560d29eccfc8410bcccf7c"
+  },
+  "bookname": "Hyperion",
+  "release": 1989,
+  "desc": "A space opera following the journey of seven pilgrims to the mysterious planet of Hyperion, each with their own stories and secrets.",
+  "buyFrom": [
+    "Amazon",
+    "Barnes & Noble",
+    "Book Depository"
+  ],
+  "_class": "com.santosh.booklisting.model.Post"
+},{
+  "_id": {
+    "$oid": "64560d3aeccfc8410bcccf7d"
+  },
+  "bookname": "The Hitchhiker's Guide to the Galaxy",
+  "release": 1979,
+  "desc": "A comedic science fiction series following the misadventures of an ordinary human and his alien friend as they travel through space.",
+  "buyFrom": [
+    "Amazon",
+    "Barnes & Noble",
+    "Book Depository"
+  ],
+  "_class": "com.santosh.booklisting.model.Post"
+},{
+  "_id": {
+    "$oid": "64560d43eccfc8410bcccf7e"
+  },
+  "bookname": "Starship Troopers",
+  "release": 1959,
+  "desc": "A military science fiction novel depicting a futuristic society engaged in interstellar warfare against a hostile alien species.",
+  "buyFrom": [
+    "Amazon",
+    "Barnes & Noble",
+    "Book Depository"
+  ],
+  "_class": "com.santosh.booklisting.model.Post"
+},{
+  "_id": {
+    "$oid": "64560d4deccfc8410bcccf7f"
+  },
+  "bookname": "The War of the Worlds",
+  "release": 1898,
+  "desc": "A pioneering work of alien invasion science fiction, portraying a Martian invasion of Earth and its devastating consequences.",
+  "buyFrom": [
+    "Amazon",
+    "Barnes & Noble",
+    "Book Depository"
+  ],
+  "_class": "com.santosh.booklisting.model.Post"
+},{
+  "_id": {
+    "$oid": "64560d64eccfc8410bcccf80"
+  },
+  "bookname": "Blade Runner",
+  "release": 1968,
+  "desc": "A dystopian novel set in a future where synthetic humans, known as replicants, provoke questions about identity and humanity.",
+  "buyFrom": [
+    "Amazon",
+    "Barnes & Noble",
+    "Book Depository"
+  ],
+  "_class": "com.santosh.booklisting.model.Post"
+},{
+  "_id": {
+    "$oid": "64560d71eccfc8410bcccf81"
+  },
+  "bookname": "The Time Machine",
+  "release": 1895,
+  "desc": "A classic novella about a time traveler who journeys to the distant future and witnesses the division of humanity into two species.",
+  "buyFrom": [
+    "Amazon",
+    "Barnes & Noble",
+    "Book Depository"
+  ],
+  "_class": "com.santosh.booklisting.model.Post"
+},{
+  "_id": {
+    "$oid": "64560d7beccfc8410bcccf82"
+  },
+  "bookname": "The Martian",
+  "release": 2011,
+  "desc": "A gripping tale of an astronaut stranded on Mars and his struggle for survival using his scientific knowledge and resourcefulness.",
+  "buyFrom": [
+    "Amazon",
+    "Barnes & Noble",
+    "Book Depository"
+  ],
+  "_class": "com.santosh.booklisting.model.Post"
+}]
